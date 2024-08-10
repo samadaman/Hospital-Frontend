@@ -1,6 +1,6 @@
 
-# Hospital Project - Frontend
-This project is a frontend application for a hospital management system. It provides a user-friendly interface for patients and hospital staff, ensuring accessibility and responsiveness across various devices.
+# 🏥 Hospital Project - Frontend
+This project is a front-end application for a hospital management system. It provides a user-friendly interface for patients and hospital staff, ensuring accessibility and responsiveness across various devices.
 
 ## Features
 
@@ -22,7 +22,7 @@ This project is a frontend application for a hospital management system. It prov
 For any questions or feedback, please reach out to:
 
 - Name: Samad Aman
-- Email: amansamad2500@example.com
+- Email: amansamad2500@gmail.com
 
 
 ## Usage
